@@ -9,7 +9,7 @@ Author: kaymen99
 
 ## 📩 **FULL TUTORIAL: Build AI-Powered Email Automation Using AI Agents + RAG!** 👉 [Read Now](https://dev.to/kaymen99/boost-customer-support-ai-agents-langgraph-and-rag-for-email-automation-21hj) 🎯   
 
-![customer-support-ai-automation](https://github.com/user-attachments/assets/eb061276-0579-4e28-9360-482c8da33a9d)
+
 
 ## **Introduction**  
 
@@ -134,10 +134,4 @@ You can also add your own agency data into the `data` folder, then you must crea
 python create_index.py
 ```
 
-### Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-### Contact
-
-If you have any questions or suggestions, feel free to contact me at `aymenMir1001@gmail.com`.
